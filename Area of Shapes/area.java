@@ -19,7 +19,7 @@ public class area{
      
                  double area = (base*height);
                  r = new JFrame();
-                 JOptionPane.showMessageDialog(r,"The area of the square is " + area);
+                 JOptionPane.showMessageDialog(r,"The area of the rectangle is " + area);
      
                 } else {
                  r = new JFrame();
